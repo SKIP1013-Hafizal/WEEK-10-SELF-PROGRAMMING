@@ -1,0 +1,12 @@
+Printing original array:
+33
+3
+4
+5
+Printing clone of the array:
+33
+3
+4
+5
+Are both equal?
+false
